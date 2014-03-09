@@ -1,0 +1,165 @@
+<h1>Bill of Materials: StepperControl.fzz</h1>
+<p class="meta">/home/zaphod/Development/Projects/Atmel-Projects/StepperControl/Fritzing/StepperControl.fzz</p>
+<p class="meta">Sonntag, März 9 2014, 03:40:49</p>
+
+<h2>Assembly List</h2>
+<table>
+
+  <thead>
+   <tr>
+    <th>Label</th>
+    <th>Part Type</th>
+    <th>Properties</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td>C3</td>
+    <td>Ceramic Capacitor</td>
+    <td class="props">package 0603 [SMD, multilayer]; capacitance 22pF; voltage 6.3V</td>
+</tr><tr>
+    <td>C4</td>
+    <td>Ceramic Capacitor</td>
+    <td class="props">package 0603 [SMD, multilayer]; capacitance 22pF; voltage 6.3V</td>
+</tr><tr>
+    <td>C5</td>
+    <td>Ceramic Capacitor</td>
+    <td class="props">package 0603 [SMD, multilayer]; capacitance 100 nF; voltage 6.3V</td>
+</tr><tr>
+    <td>C6</td>
+    <td>Ceramic Capacitor</td>
+    <td class="props">package 0603 [SMD, multilayer]; capacitance 100 nF; voltage 6.3V</td>
+</tr><tr>
+    <td>D1</td>
+    <td>Rectifier Diode</td>
+    <td class="props">package 300 mil [THT]; type Rectifier; part # 1N4001</td>
+</tr><tr>
+    <td>D2</td>
+    <td>Rectifier Diode</td>
+    <td class="props">package 300 mil [THT]; type Rectifier; part # 1N4001</td>
+</tr><tr>
+    <td>D3</td>
+    <td>Rectifier Diode</td>
+    <td class="props">package 300 mil [THT]; type Rectifier; part # 1N4001</td>
+</tr><tr>
+    <td>D4</td>
+    <td>Rectifier Diode</td>
+    <td class="props">package 300 mil [THT]; type Rectifier; part # 1N4001</td>
+</tr><tr>
+    <td>D5</td>
+    <td>Rectifier Diode</td>
+    <td class="props">package 300 mil [THT]; type Rectifier; part # 1N4001</td>
+</tr><tr>
+    <td>D6</td>
+    <td>Rectifier Diode</td>
+    <td class="props">package 300 mil [THT]; type Rectifier; part # 1N4001</td>
+</tr><tr>
+    <td>D7</td>
+    <td>Rectifier Diode</td>
+    <td class="props">package 300 mil [THT]; type Rectifier; part # 1N4001</td>
+</tr><tr>
+    <td>D8</td>
+    <td>Rectifier Diode</td>
+    <td class="props">package 300 mil [THT]; type Rectifier; part # 1N4001</td>
+</tr><tr>
+    <td>M1</td>
+    <td>Stepper Motor - Bipolar</td>
+    <td class="props">shaft 5 mm diameter / 33 mm length; size 42.3 x 42.3 x 37.0 mm; current 0.28 A; phase 2; voltage 15.4; stepper type Bipolar; step angle 1.8; detent torque 120 g*cm; holding torque  2.4 kg*cm; part # Stepper from DVD drive</td>
+</tr><tr>
+    <td>Q1</td>
+    <td>NPN-Transistor</td>
+    <td class="props">package TO92 [THT]; type NPN (CBE); part # BC547</td>
+</tr><tr>
+    <td>Q2</td>
+    <td>NPN-Transistor</td>
+    <td class="props">package TO92 [THT]; type NPN (CBE); part # BC547</td>
+</tr><tr>
+    <td>Q3</td>
+    <td>NPN-Transistor</td>
+    <td class="props">package TO92 [THT]; type NPN (EBC); part # BC547</td>
+</tr><tr>
+    <td>Q4</td>
+    <td>NPN-Transistor</td>
+    <td class="props">package TO92 [THT]; type NPN (EBC); part # BC547</td>
+</tr><tr>
+    <td>R1</td>
+    <td>10k Ω Resistor</td>
+    <td class="props">package THT; tolerance ±5%; bands 4; resistance 10kΩ; pin spacing 400 mil</td>
+</tr><tr>
+    <td>R2</td>
+    <td>10k Ω Resistor</td>
+    <td class="props">package THT; tolerance ±5%; bands 4; resistance 10kΩ; pin spacing 400 mil</td>
+</tr><tr>
+    <td>R3</td>
+    <td>10k Ω Resistor</td>
+    <td class="props">package THT; tolerance ±5%; bands 4; resistance 10kΩ; pin spacing 400 mil</td>
+</tr><tr>
+    <td>R4</td>
+    <td>10k Ω Resistor</td>
+    <td class="props">package THT; tolerance ±5%; bands 4; resistance 10kΩ; pin spacing 400 mil</td>
+</tr><tr>
+    <td>R5</td>
+    <td>10k Ω Resistor</td>
+    <td class="props">package THT; tolerance ±5%; bands 4; resistance 10kΩ; pin spacing 400 mil</td>
+</tr><tr>
+    <td>U1</td>
+    <td>atmega328</td>
+    <td class="props">package dip; version Atmega328-20PU; type ATMEGA328; variant dip28 THT; part # ATmega328</td>
+</tr><tr>
+    <td>XTAL1</td>
+    <td>Crystal</td>
+    <td class="props">package THT; frequency 16 Mhz; type crystal; pin spacing 5.08mm</td>
+</tr>
+  </tbody>
+</table>
+<h2>Shopping List</h2>
+<table>
+  <thead>
+	<tr>
+    <th>Amount</th>
+    <th>Part Type</th>
+    <th>Properties</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+    <td>2</td>
+    <td>Ceramic Capacitor</td>
+    <td class="props">package 0603 [SMD, multilayer]; capacitance 22pF; voltage 6.3V</td>
+</tr><tr>
+    <td>2</td>
+    <td>Ceramic Capacitor</td>
+    <td class="props">package 0603 [SMD, multilayer]; capacitance 100 nF; voltage 6.3V</td>
+</tr><tr>
+    <td>8</td>
+    <td>Rectifier Diode</td>
+    <td class="props">package 300 mil [THT]; type Rectifier; part # 1N4001</td>
+</tr><tr>
+    <td>1</td>
+    <td>Stepper Motor - Bipolar</td>
+    <td class="props">shaft 5 mm diameter / 33 mm length; size 42.3 x 42.3 x 37.0 mm; current 0.28 A; phase 2; voltage 15.4; stepper type Bipolar; step angle 1.8; detent torque 120 g*cm; holding torque  2.4 kg*cm; part # Stepper from DVD drive</td>
+</tr><tr>
+    <td>2</td>
+    <td>NPN-Transistor</td>
+    <td class="props">package TO92 [THT]; type NPN (CBE); part # BC547</td>
+</tr><tr>
+    <td>2</td>
+    <td>NPN-Transistor</td>
+    <td class="props">package TO92 [THT]; type NPN (EBC); part # BC547</td>
+</tr><tr>
+    <td>5</td>
+    <td>10k Ω Resistor</td>
+    <td class="props">package THT; tolerance ±5%; bands 4; resistance 10kΩ; pin spacing 400 mil</td>
+</tr><tr>
+    <td>1</td>
+    <td>atmega328</td>
+    <td class="props">package dip; version Atmega328-20PU; type ATMEGA328; variant dip28 THT; part # ATmega328</td>
+</tr><tr>
+    <td>1</td>
+    <td>Crystal</td>
+    <td class="props">package THT; frequency 16 Mhz; type crystal; pin spacing 5.08mm</td>
+</tr>
+  </tbody>
+</table>
+<p class="meta"><br/>Exported with Fritzing 0.8.7- http://fritzing.org</p>
+
